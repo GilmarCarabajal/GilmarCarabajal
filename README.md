@@ -1,4 +1,4 @@
-## Olã, sou Gilmar Carabajal, sou engenheiro civil e criador de conteúdo de programação e tecnologia para a engenharia👋
+## Olã, sou Gilmar Carabajal, engenheiro civil e criador de conteúdo de programação e tecnologia para a engenharia👋
 
 <!--
 **GilmarCarabajal/GilmarCarabajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
